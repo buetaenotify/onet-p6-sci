@@ -1,0 +1,18 @@
+{
+  "name": "ระบบผังข้อสอบ O-NET ป.6 วิทย์ โรงเรียนบ้านบือแต",
+  "short_name": "O-NET ป.6 วิทย์",
+  "description": "ระบบติว O-NET วิทยาศาสตร์ ป.6 ปีการศึกษา 2569 — พัฒนาโดย นายอับดุลเลาะ มะลี",
+  "lang": "th",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1F2C6B",
+  "theme_color": "#1F2C6B",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
